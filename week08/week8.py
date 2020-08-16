@@ -1,3 +1,4 @@
+作业一：
 # 区分以下类型哪些是容器序列哪些是扁平序列，哪些是可变序列哪些是不可变序列：
 
 # list
@@ -17,7 +18,7 @@
 
 
 
-
+作业二：
 def Map1(f,List):
     for i in range(len(List)):
         yield f(List[i])
@@ -36,7 +37,7 @@ for i in Map1(f,List):
 
 
 
-
+作业三：
 import time
 from functools import wraps
 
