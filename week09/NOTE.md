@@ -1,1 +1,5 @@
-学习笔记
+第九周学习笔记
+
+更加深入的从源码层面对URLconfig，URLconf的include，view视图，view视图的响应过程，
+view视图的请求响应完整流程，自增主键创建，model模型的查询管理器，template模板，
+web相关功能进行了了解和学习。
